@@ -134,7 +134,7 @@ export default function Footer() {
           </ul>
 
 
-          <div className="text-sm text-gray-600 mr-4">&copy; Cruip.com. All rights reserved.</div>
+          <div className="text-sm text-gray-600 mr-4">&copy; Mawa.com All rights reserved.</div>
 
         </div>
 
